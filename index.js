@@ -1,4 +1,4 @@
-
+// destructuring
 const classTen = {
     classTeacher: "Mr.X",
     student: 67,
